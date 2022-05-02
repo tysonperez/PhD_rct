@@ -1,0 +1,12 @@
+E:\Folders\PhD\ISAD\ISAD_Curry_data\ISAD_EEGs\eLORETA\EEGs_128Hz\Clinical_only\Exploratory_PN\T2_isf2_PN\F18.slor
+E:\Folders\PhD\ISAD\ISAD_Curry_data\ISAD_EEGs\eLORETA\EEGs_128Hz\Clinical_only\Exploratory_PN\T2_isf2_PN\F22.slor
+E:\Folders\PhD\ISAD\ISAD_Curry_data\ISAD_EEGs\eLORETA\EEGs_128Hz\Clinical_only\Exploratory_PN\T2_isf2_PN\F27.slor
+E:\Folders\PhD\ISAD\ISAD_Curry_data\ISAD_EEGs\eLORETA\EEGs_128Hz\Clinical_only\Exploratory_PN\T2_isf2_PN\F28.slor
+E:\Folders\PhD\ISAD\ISAD_Curry_data\ISAD_EEGs\eLORETA\EEGs_128Hz\Clinical_only\Exploratory_PN\T2_isf2_PN\F29.slor
+E:\Folders\PhD\ISAD\ISAD_Curry_data\ISAD_EEGs\eLORETA\EEGs_128Hz\Clinical_only\Exploratory_PN\T2_isf2_PN\F30.slor
+E:\Folders\PhD\ISAD\ISAD_Curry_data\ISAD_EEGs\eLORETA\EEGs_128Hz\Clinical_only\Exploratory_PN\T2_isf2_PN\F33.slor
+E:\Folders\PhD\ISAD\ISAD_Curry_data\ISAD_EEGs\eLORETA\EEGs_128Hz\Clinical_only\Exploratory_PN\T2_isf2_PN\F42.slor
+E:\Folders\PhD\ISAD\ISAD_Curry_data\ISAD_EEGs\eLORETA\EEGs_128Hz\Clinical_only\Exploratory_PN\T2_isf2_PN\F56.slor
+E:\Folders\PhD\ISAD\ISAD_Curry_data\ISAD_EEGs\eLORETA\EEGs_128Hz\Clinical_only\Exploratory_PN\T2_isf2_PN\F62.slor
+E:\Folders\PhD\ISAD\ISAD_Curry_data\ISAD_EEGs\eLORETA\EEGs_128Hz\Clinical_only\Exploratory_PN\T2_isf2_PN\F79.slor
+E:\Folders\PhD\ISAD\ISAD_Curry_data\ISAD_EEGs\eLORETA\EEGs_128Hz\Clinical_only\Exploratory_PN\T2_isf2_PN\F8.slor

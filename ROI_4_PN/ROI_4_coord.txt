@@ -1,0 +1,5 @@
+4
+1 -5 45 MCC_right
+4 42 10 pgACC_right
+-8 18 -15 sgACC_left
+-41 16 34 dlPFC_left

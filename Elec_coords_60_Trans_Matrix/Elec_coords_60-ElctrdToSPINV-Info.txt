@@ -1,0 +1,8 @@
+save fn: E:\Folders\PhD\ISAD\ISAD_Curry_data\ISAD_EEGs\eLORETA\Elec_coords_60_Trans_Matrix\Elec_coords_60.spinv
+Standardized LORETA: FALSE
+Exact LORETA: TRUE
+FNElctrdCoord: E:\Folders\PhD\ISAD\ISAD_Curry_data\ISAD_EEGs\eLORETA\Elec_coords_60_Trans_Matrix\Elec_coords_60.sxyz
+NoReg: TRUE
+AutoReg: FALSE
+SnrReg: FALSE
+RelReg: FALSE
